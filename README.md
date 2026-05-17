@@ -1,2 +1,2 @@
-# Project-2048
-2048 game
+# Project Pac_Man
+Pac_Man game
